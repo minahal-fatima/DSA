@@ -1,0 +1,39 @@
+1
+C
+500.45
+
+2
+C++
+600.54
+
+3
+Visual C
+650.00
+
+4
+Visual C++
+675.99
+
+5
+Visual Basic
+400.35
+
+6
+Visual Basic .NET
+870.95
+
+7
+Visual Basic .NET
+980.00
+
+8
+Visual C#
+1599.99
+
+9
+Visual J#
+345.00
+
+10
+Statistics
+250.00
